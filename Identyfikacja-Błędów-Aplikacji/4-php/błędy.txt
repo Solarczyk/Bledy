@@ -1,0 +1,16 @@
+lib-1:
+-$ctrls w linii 20 należy wcześniej zdefiniować lokalnie jako string
+
+lib-2:
+-w linii 8 zmienna 'content' nie powinna zaczynać się od znaku '$'
+
+lib-3:
+-w linii 8 zamiast '$content' powinno być '$this->content'
+-w linii 5 do zmiennej 'content' nie przekazano danych ze zmiennej 'content' zadeklarowanej w metodzie
+-w linii 8 użyto cudzysłów i apostrof. Należy zastosować dwa takie same znaki
+
+lib-4:
+-w linii 5 zmienna o nazwie 'content' nie istnieje. Powinno być 'name'
+
+demo-4:
+-w linii 1 należy użyć znaku '<' zamiast '&lt;'

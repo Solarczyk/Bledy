@@ -1,0 +1,3 @@
+-niepoprawnie zapisana funkcja getElementById w linii 3
+-niepoprawnie zapisane id elementu w linii 2 i 3 (# niepotrzebny)
+-wartości koordynatów w liniach 6 i 7 wymagają określenia jednostki (np piksele)

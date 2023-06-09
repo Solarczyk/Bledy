@@ -1,0 +1,4 @@
+Błędy zachodzą w pliku "class.data.php" - nie można znaleźć hosta o podanej nazwie, ponieważ ta została zmieniona na hostingu
+
+Jeżeli plik korzysta z danych zawartych w pliku "database.ini", to zmiana nazwy hosta w tym pliku na "thehostingthe.mysql.db" wystarczy.
+Jeżeli nie, należy zmienić połączenie ręcznie (lub podpiąć go do pliku .ini, by czytał nazwę zdefiniowaną tam)

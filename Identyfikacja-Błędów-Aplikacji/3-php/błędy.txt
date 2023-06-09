@@ -1,0 +1,12 @@
+-w linii 14 i 15 między $dir a '/' powinny znajdować się kropki
+-w linii 25 literówka ("Filesysten" - powinno być "FileSystem")
+-w linii 30 i 34 strzałka nie może mieć odstępu między '-' i '>'
+-return $out w linii 22 znajduje się poza funkcją
+-brak średnika w linii 29
+-w linii 33 użyto średnika między 2 stringami - powinien być ':'
+-linia 4 nieprawidłowy zapis zmiennej
+-zmienna w linii 4 powinna być publiczna
+-w linii 6 i 7 zmienna id powinna zaczynać się znakiem '$';
+-w linii 7 zamiast znaku '+' powinien być znak '.'
+-w linii 28 i 32 zły zapis wywołania metody obiektu - zamiast kropek należy dać '->';
+-w linii 33 dodatkowy nawias - powinien zostać usunięty

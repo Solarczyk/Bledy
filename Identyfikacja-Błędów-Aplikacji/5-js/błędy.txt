@@ -1,0 +1,6 @@
+-funkcja ".createTextNode" w linii 16 powinna zaczynać się od "document", a nie zmiennej
+
+Pętla w linii 7 usuwa elementy z tabeli o pozycji 'i', która jest zwiększana co iterację o 1. 
+Elementy nie usuwają się poprawnie, ponieważ pozostałe elementy będą zajmowały pozycję od 0.
+Można to rozwiązać pozostawiając wartość 'i' równą 0. Wtedy elementy będą usuwały się po kolei, a pętla zakończy się gdy
+długość tabeli 'arr' osiągnie 0.
